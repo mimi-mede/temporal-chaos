@@ -1,0 +1,31 @@
+Instrucciones: Realizar las siguientes actividades. Todos los cambios deben de ser persistentes.
+
+1. (5 p) Hacer los siguientes usuarios:
+kylo con permisos sudo y contrasena "thepowerofthedarkside" sin comillas
+hux con comentario "cuenta del general no borrar"
+bb9 sin permisos de login
+
+2. (5 p) Hacer los siguientes grupos:
+firstorder con usuarios kylo, hux y bb9
+officers con kylo y hux
+
+3. (5 p) Dar permisos sudo al grupo officers
+
+4. (10 p) Copiar el archivo anexo desde su equipo al servidor remoto en el home del usuario kylo
+
+5. (20 p) Particionar el disco de 32 GB, crear una particion de 20 GB para montar un filesystem en el punto /starkiller
+
+6. (10 p) El directorio /starkiller los archivos creados en este directorio necesitan tener como grupo owner al grupo officers. Crear dos archivos vacios de nombre diagram01 y diagram02.
+
+7. (20 p) Crear una pagina web con el contenido de 'Stormtrooper program. Join the first order.'
+
+8. (10 p) Habilitar el firewall y agregar la excepcion de la pagina web a la zona default
+
+9. (10 p) Mostrar los puertos en estados listen, el resultado del comando se guarda en el directorio del usuario kylo con el nombre de "ports"
+
+10. (5 p) Mostrar la configuracion de red, el resultado del comando se guarda en el directorio del usuario kylo con el nombre de "network"
+
+Bonus:
+Cambiar el nombre del equipo a "silencer" (5 puntos)
+Crear particion adicional para memoria swap de 4 GB (10 puntos)
+
