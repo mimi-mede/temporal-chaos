@@ -26,6 +26,6 @@ officers con kylo y hux
 10. (5 p) Mostrar la configuracion de red, el resultado del comando se guarda en el directorio del usuario kylo con el nombre de "network"
 
 Bonus:
-Cambiar el nombre del equipo a "silencer" (5 puntos)
+Agregar una entrada para resolver el host 'silencer' con la ip 192.168.15.11 (5 puntos)
 Crear particion adicional para memoria swap de 4 GB (10 puntos)
 
