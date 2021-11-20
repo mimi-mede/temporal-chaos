@@ -11,7 +11,7 @@ officers con kylo y hux
 
 3. (5 p) Dar permisos sudo al grupo officers
 
-4. (10 p) Copiar el archivo anexo desde su equipo al servidor remoto en el home del usuario kylo
+4. (10 p) Copiar el archivo anexo firstorder_manual desde su equipo al servidor remoto en el home del usuario kylo
 
 5. (20 p) Particionar el disco de 32 GB, crear una particion de 20 GB para montar un filesystem en el punto /starkiller
 
